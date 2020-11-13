@@ -29,7 +29,6 @@
 - Swagger
 - Teste unitário e teste de integração
 - CI/CD
-- 
 
 
 ## Detalhes
