@@ -17,7 +17,7 @@
 
 - O valor do métro quadrado dever ser obtido chamando a API1
 
-- Disponibilizar os serviços as APIs Online
+- Disponibilizar os serviços Online
 
 
 ## O que gostaríamos de ver nos microserviços
