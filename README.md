@@ -17,9 +17,10 @@
 
 - O valor do métro quadrado dever ser obtido chamando a API1
 
+- Disponibilizar os serviços as APIs Online
+
 
 ## O que gostaríamos de ver nos microserviços
-
 - Boas práticas de desenvolvimento
 - Padrões de codificação 
 - Execução utilizando docker
@@ -28,7 +29,7 @@
 - Swagger
 - Teste unitário e teste de integração
 - CI/CD
-- Disponibilizar as APIs Online
+- 
 
 
 ## Detalhes
